@@ -1,7 +1,7 @@
 # Introduction 
 This is the sample project for the Implementing and Managing Build Infrastructure course at www.CloudAcademy.com. 
 
-# Getting Started
+# Getting Started test
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Installation process
 2.	Software dependencies
